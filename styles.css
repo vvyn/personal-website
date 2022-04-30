@@ -1,0 +1,117 @@
+body {
+    /*background-color: rgb(242, 244, 249);*/
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;}
+
+h1 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.top {
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    background-color: #9bbbde;
+    text-align: center;
+    padding-top: 150px;
+    margin-bottom: 50px;
+    color: #1b63ab;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 20%;
+    top: 90px;
+}
+
+.bot-cloud{
+    position: absolute;
+    left: 20%;
+    bottom: 330px;
+}
+
+.about-me {
+    width: 60%;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.projects {
+    width: 60%;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    font-family: 'Open Sans', sans-serif;}
+
+.each-proj {
+    padding: 1px 30px 20px 20px;
+    background-color: #8bbfd5;
+    border-radius: 25px;
+    margin-bottom: 30px;
+}
+
+.proj-buttons {
+    padding-left: 40px;
+}
+
+.skills {
+    width: 60%;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    font-family: 'Open Sans', sans-serif;}
+
+.skills-row {
+    display: flex;
+  }
+  
+.skills-column {
+    flex: 16.6%;
+    padding: 5px;
+}
+
+.contact {
+    background-color: #9bbbde;
+    padding: 20px 0 20px;
+}
+
+.contact-row {
+    display: flex;
+  }
+  
+.contact-column {
+    flex: 33.33%;
+    padding: 5px;
+}
+
+.btn {
+    background: #5baacb;
+    background-image: linear-gradient(to bottom, #5baacb, #e39629);
+    border-radius: 15px;
+    border-color: #956522;
+    font-family: 'Open Sans', sans-serif;
+    color: #000000;
+    font-size: 17px;
+    padding: 5px 10px 5px 10px;
+}
+  
+.btn:hover {
+    background: #90dbdb;
+    background-image: linear-gradient(to bottom, #e09935, #da8712);
+    text-decoration: none;
+}
