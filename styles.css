@@ -25,11 +25,11 @@ h2 {
 .top {
     font-family: 'Dancing Script', cursive;
     font-size: 30px;
-    background-color: #9bbbde;
+    background-color: #a0c2e6;
     text-align: center;
     padding-top: 150px;
     margin-bottom: 50px;
-    color: #1b63ab;
+    color: #185a9c;
 }
 
 .top-cloud{
@@ -60,10 +60,10 @@ h2 {
 
 .each-proj {
     padding: 1px 30px 20px 20px;
-    background-color: #9dc5d6;
+    background-color: #a8c6e6;
     border-radius: 25px;
     margin-bottom: 30px;
-    box-shadow: 5px 7px #707c89;
+    box-shadow: 5px 7px #75808b;
 }
 
 .proj-buttons {
@@ -88,14 +88,14 @@ h2 {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: #9bbbde;
+    background-color: #a8c6e6;
     margin: 10px;
-    border:3px solid #6f8baa;
+    border:3px solid #7898bc;
     border-radius: 20px;
 }
 
 .contact {
-    background-color: #9bbbde;
+    background-color: #8bafd4;
     padding: 30px 0;
 }
 
@@ -110,7 +110,7 @@ h2 {
 
 .btn {
     background: #5baacb;
-    background-image: linear-gradient(to bottom, #5baacb, #e39629);
+    background-image: linear-gradient(to bottom, #75808b, #e39629);
     border-radius: 15px;
     border-color: #956522;
     font-family: 'Open Sans', sans-serif;
